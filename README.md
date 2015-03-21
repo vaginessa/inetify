@@ -1,4 +1,4 @@
-# Inetify is a Free Open Source Android tool providing two features related to Wifi networks:
+# Inetify is a Free Open Source Android tool providing two features related to Wifi networks
 
 - Give a notification if a Wifi network does not provide internet access 
 
